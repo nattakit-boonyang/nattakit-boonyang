@@ -1,7 +1,7 @@
-Welcome to my repository
+Welcome to My Repository
 ===
 
-I'm Junior Developer in Bangkok, Thailand.
+I'm **Junior Full Stack Developer** in Bangkok, Thailand. I have been experiencing **Go Programming Language, C#, C++, Docker, K8S**.
 
 # Total Repository
 
