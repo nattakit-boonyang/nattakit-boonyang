@@ -9,3 +9,9 @@ I'm Junior Developer in Bangkok, Thailand.
 - 2020 = 25
 - 2019 = 96
 - 2018 = 91
+
+# Top Programming Language
+
+- Go = 87
+- JavaScript = 35
+- C# = 27
