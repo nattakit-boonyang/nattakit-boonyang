@@ -1,11 +1,11 @@
 Welcome to My Repository
 ===
 
-I'm **Middle Software Engineer (Golang)** in Thailand.
+I'm **Middle Software Engineer (Golang)** in Thailand and Australia.
 
-I have been experiencing **Go Programming Language, C++, Docker, K8S**.
+I have been experiencing **Go Programming Language, Rust, C#, C++, Docker, K8S**.
 
-I love coding with my **Goland and VSCode** at somewhere into the world.
+I love coding with my **VSCode and Neovim** at somewhere into the world.
 
 My Hobby:
 - [Leetcode](https://leetcode.com/imkk-000)
